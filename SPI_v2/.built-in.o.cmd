@@ -1,0 +1,1 @@
+cmd_/home/stud/projekt3/SPI_communication/SPI_v2/built-in.o :=  rm -f /home/stud/projekt3/SPI_communication/SPI_v2/built-in.o; arm-poky-linux-gnueabi-ar rcSTPD /home/stud/projekt3/SPI_communication/SPI_v2/built-in.o
